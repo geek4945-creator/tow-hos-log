@@ -1,0 +1,14 @@
+{
+  "name": "JD's Towing - Long Haul Tracker",
+  "version": "1.2",
+  "versionCode": 3,
+  "apk": "https://geek4945-creator.github.io/tow-hos-log/TowHOSLog.apk",
+  "web": "https://geek4945-creator.github.io/tow-hos-log/",
+  "date": "2026-10-30",
+  "notes": [
+    "New name: JD's Towing - Long Haul Tracker.",
+    "Check for updates: More > About, plus an automatic check when the app opens.",
+    "Android: download and install updates from inside the app."
+  ],
+  "minManualFrom": "1.1"
+}
